@@ -1,0 +1,255 @@
+input.in-drop {
+	border: 1px solid #D7D7D7;
+	padding: 0.4em 0.5em;
+	width: 100%;
+	color: #a3a3a3;
+	font-size: 0.9em;
+	outline: none;
+}
+.title_p {
+	margin-top: 1em;
+	font-size: 16px;
+	color: white;
+}
+#searchLongRoom,
+#searchShortRoom {
+	margin-top: 2em;
+	background-color: #27da93;
+	border: #27da93;
+}
+.future {
+	padding-top: 0;
+}
+.single-bottom form {
+	margin-top: 0.5em;
+	label {
+		font-size: 16px;
+		color: #000;
+		font-weight: normal;
+		line-height: 20px;
+	}
+	.whiteFont {
+		color: white;
+		text-decoration: none;
+	}
+}
+@media (max-width: 640px) {
+	.publishing .check-top-single {
+		width: 100%;
+	}
+}
+#detailMap {
+	height: 300px;
+	margin-bottom: 48px;
+}
+.container_span {
+	display: inline-block;
+	width: 40%;
+}
+.modal-dialog {
+	z-index: 1041;
+}
+//聊天面板
+.chatview{
+	width: 100%;
+	background-color: #FFFFFF;
+}
+.profile {
+	overflow: hidden;
+	text-align: center;
+	color: #fff;
+}
+.friend{
+	position:relative;
+}
+.friend img{
+	width:40px;
+	border-radius:50%;
+    display: block;
+    margin: 2% auto;
+}
+.friend p strong,.friend p span{
+	color: #FFFFFF;
+	display: block;
+	margin: auto;
+}
+.friend p strong{
+	font-weight:600;
+	font-size:15px;
+}
+.friend p span{
+	font-size:13px;
+	font-weight:400;
+    margin-bottom: 1%;
+}
+.chatview .profile {
+	background: url("../images/timeline1.png") 0 0 no-repeat;
+    background-size: 100% 100%;
+}
+.chatMsg{
+    height: 285px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.chatMsg label{
+	color: #aab8c2;
+	font-weight: 600;
+	font-size: 14px;
+	text-align: center;
+	display: block;
+    line-height: 25px;
+}
+.chatMsg div.message {
+	text-align: left;
+	clear: both;
+	padding: 10px 0 15px 30px;
+}
+.chatMsg div.message.right {
+	padding: 10px 30px 15px 0;
+	text-align: right;
+}
+.chatMsg .message img {
+	border-radius: 50%;
+	width: 30px;
+}
+.chatMsg div.message.right img {
+	float: right;
+}
+.chatMsg div.message .bubble {
+	clear: both;
+	background: #f0f4f7;
+	font-size: 13px;
+	font-weight: 600;
+	padding: 12px 13px;
+	border-radius: 5px 5px 5px 0;
+	color: #8495a3;
+	display: inline-block;
+	position: relative;
+}
+.chatMsg div.message .bubble{
+	margin-left: 5px;
+}
+.chatMsg div.message.right .bubble {
+    margin-right: 5px;
+}
+.bubble .corner {
+	background: url("../images/bubble-corner.png") 0 0 no-repeat;
+	position: absolute;
+	width: 7px;
+	height: 7px;
+	left: -5px;
+	bottom: 0;
+}
+div.message.right .corner {
+	background: url("../images/bubble-cornerR.png") 0 0 no-repeat;
+	left: auto;
+	right: -5px;
+}
+.bubble span {
+	color: #aab8c2;
+	font-size: 11px;
+	position: absolute;
+	bottom: -22px;
+}
+.chatMsg div.message .bubble span{
+	left: 0;
+}
+.chatMsg div.message.right .bubble span{
+	right: 0;
+}
+.closeChatModal{
+	position: absolute;
+	top: 8px;
+	opacity: 0.8;
+	right: 10px;
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+}
+.closeChatModal:hover{
+	opacity: 1;
+}
+.cx,
+.cy {
+	background: #fff;
+	position: absolute;
+	width: 0;
+	top: 15px;
+	right: 15px;
+	height: 3px;
+}
+.cx.s1,
+.cy.s1 {
+	right: 0;
+	width: 20px;
+}
+.cy.s1 {
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.cx.s1 {
+    -ms-transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+    transform: rotate(135deg);
+}
+.chatview,.sendMsg{
+	border-radius: 6px;
+}
+.sendMsg{
+	height: 60px;
+	line-height: 60px;
+    margin-top: 5px;
+	border-top: 1px solid #e7ebee;
+	background-color: #fff;
+}
+.sendMsg input {
+	border: none;
+	outline: none;
+	box-shadow: none;
+    width: 80%;
+	background: #fff;
+	margin: 21px 0 0 21px;
+	padding: 0;
+	font-size: 14px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400px;
+	color: #aab8c2;
+}
+.sendMsg textarea:focus {
+	outline: 0;
+}
+.sendMsg button:hover,
+#bookRoom .modal-footer button:hover,
+.sendMsg button:active, 
+#bookRoom .modal-footer button:active,
+.sendMsg button:visited,
+#bookRoom .modal-footer button:visited,
+#sureBook .modal-footer button:hover,
+#sureBook .modal-footer button:active,
+#sureBook .modal-footer button:visited{
+	cursor: pointer;
+	background-position: 0 0;
+	color: white;
+}
+.sendMsg button:focus,
+#bookRoom .modal-footer button:focus,
+#sureBook .modal-footer button:focus{
+	outline: 0;
+}
+.sendMsg button,
+#bookRoom .modal-footer button,
+#sureBook .modal-footer button{
+    background-color: transparent;
+    border: 1px solid #27DA93;
+    color: #27DA93;
+}
+.shortRentSearch.price{
+    margin: 5em 0 0;
+}
+#bookRoom .modal-body,
+#bookRoom .modal-footer,
+#sureBook .modal-body,
+#sureBook .modal-footer{
+	text-align: center;
+}

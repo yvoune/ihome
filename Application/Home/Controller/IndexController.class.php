@@ -5,36 +5,25 @@ use Think\Controller;
 class IndexController extends Controller {
     
     public function index(){ 
-        $this->show();
-
-//        $slide = M('Slide');
-//        $news = M('News');
-
-//        $firstnews_list=$news->where('news_position="first"')->limit(9)->order('id desc')->select();
-//        $secondnews_list=$news->where('news_position="second"')->limit(5)->order('id desc')->select();
-//        $thirdnews_list=$news->where('news_position="third"')->order('id desc')->limit(5)->select();
+       $homepopular = M('homepopular');
+       $homepopular_list = $homepopular->limit(3)->order('star')->select();
+       $gallery = $homepopular->limit(4)->select();
        
-//        $slide_list=$slide->select();
+       $this->assign('homepopular_list',$homepopular_list);
+       $this->assign('gallery',$gallery);
 
-//        $cache_a= S('site_name');
+       $cache_a= S('site_name');
 
-//        if (empty($cache_a)) {
-//          $system_info=M('System_conf')->find();
-//          $cache_a=S('site_name',$system_info);
-//        }
+       if (empty($cache_a)) {
+         $system_info=M('system_conf')->find();
+         $cache_a=S('site_name',$system_info);
+       }
        
-//       //  print_r($secondnews_list);exit();
-
-//        $this->assign('firstnews_list',$firstnews_list);
-//       //  print_r($firstnews_list);exit();
-//        $this->assign('secondnews_list',$secondnews_list);
-//        $this->assign('thirdnews_list',$thirdnews_list);
+      //  print_r($cache_a['site_name']);exit();
        
-//        $this->assign('slide_list',$slide_list);
+       $this->assign('title','首页—'.$cache_a['site_name']);
        
-//        $this->assign('title','首页 - '.$cache_a['site_name']);
-       
-//        $this->display();
+       $this->display();
 //        $news = M('News');
 		
 // 		$page_cout=3;
@@ -55,24 +44,21 @@ class IndexController extends Controller {
 		
 // 		$this->assign('news_list',$news_list);
     }
+    public function publishing(){
+      $this->display();
+    }
+    // public function about_us()
+    // {
 
-    // public function slide(){
-       
+    //    $cache_a= S('site_name');
+    //    $this->assign('title','关于我们 - '.$cache_a['site_name']);
+
+    // 	// do it
+    //    $this->display();
+    	
     // }
 
-    public function about_us()
-    {
-
-       $cache_a= S('site_name');
-       $this->assign('title','关于我们 - '.$cache_a['site_name']);
-
-    	// do it
-       $this->display();
-    	
-    }
-
- 	  public function contact_us()
-    {
+ 	  public function contact_us(){
       // 保存反馈信息到数据库
       if (IS_POST) {
         $fb_m=M('ClientFeedback');
@@ -100,10 +86,8 @@ class IndexController extends Controller {
        
     	
     } 
-
-    public function news()
-    {
-//新增加
+    //新增加
+    public function news(){
 		$news = M('News');
 		
 		$page_cout=10;
@@ -156,16 +140,14 @@ class IndexController extends Controller {
        $this->display();
     	
     }
-    public function login()
-    {
+    public function login(){
        $cache_a= S('site_name');
        $this->assign('title','登录 - '.$cache_a['site_name']);
     	// do it
        $this->display();
     	
     }
-    public function register()
-    {
+    public function register(){
        $cache_a= S('site_name');
        $this->assign('title','注册 - '.$cache_a['site_name']);
 

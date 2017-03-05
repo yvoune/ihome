@@ -1,0 +1,58 @@
+<!--initiate accordion-->
+<script type="text/javascript">
+    $(function() {
+        var menu_ul = $('.menu > li > ul'),
+                menu_a  = $('.menu > li > a');
+        menu_ul.hide();
+        menu_a.click(function(e) {
+            e.preventDefault();
+            if(!$(this).hasClass('active')) {
+                menu_a.removeClass('active');
+                menu_ul.filter(':visible').slideUp('normal');
+                $(this).addClass('active').next().stop(true,true).slideDown('normal');
+            } else {
+                $(this).removeClass('active');
+                $(this).next().stop(true,true).slideUp('normal');
+            }
+        });
+
+    });
+</script>
+<div class=" banner-buying">
+	<div class=" container">
+		<h3><span>iHome</span>发布房源</h3>
+		<!---->
+		<div class="menu-right">
+			<ul class="menu">
+				<li class="item1">
+					<a href="#">菜单<i class="glyphicon glyphicon-menu-down"> </i> </a>
+					<ul class="cute">
+						<li class="subitem1">
+							<a href="shortRent.html">短期租房</a>
+						</li>
+						<li class="subitem1">
+							<a href="longRent.html">长期租房</a>
+						</li>
+						<li class="subitem2">
+							<a href="publishing.html">发布房源</a>
+						</li>
+						<li class="subitem3">
+							<a href="buy.html">房源展示</a>
+						</li>
+						<li class="subitem1">
+							<a href="buy.html">个人中心</a>
+						</li>
+						<li class="subitem2">
+							<a href="loan.html">联系与反馈</a>
+						</li>
+						<li class="subitem3">
+							<a href="dealers.html">帮助与服务</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="clearfix"> </div>
+	</div>
+</div>
+<!--//header-->

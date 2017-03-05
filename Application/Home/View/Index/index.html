@@ -1,11 +1,37 @@
 <include file="public/header" />
+<div class=" header-right">
+	<div class=" banner">
+		<div class="slider">
+			<div class="callbacks_container">
+				<ul class="rslides" id="slider">
+					<li>
+						<div class="banner2">
+							<div class="caption">
+								<h3><span>iHome</span>租房网</h3>
+								<p>开启您的租房新旅程</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="banner3">
+							<div class="caption">
+								<h3><span>iHome</span>租房网</h3>
+								<p>开启您的租房新旅程</p>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
 <!--header-bottom-->
 <div class="banner-bottom-top">
 	<div class="container">
 		<div class="bottom-header">
 			<div class="header-bottom">
 				<div class=" bottom-head">
-					<a href="shortRent.html">
+					<a href="{:U('Index/shortRent')}">
 						<div class="buy-media">
 							<i class="buy"> </i>
 							<h6>短期租房</h6>
@@ -21,7 +47,7 @@
 					</a>
 				</div>
 				<div class=" bottom-head">
-					<a href="publishing.html">
+					<a href="{:U('Index/publishing')}">
 						<div class="buy-media">
 							<i class="rent"> </i>
 							<h6>发布房源</h6>
@@ -73,36 +99,18 @@
 	<div class="content-grid">
 		<div class="container">
 			<h3>最受欢迎</h3>
-			<div class="col-md-4 box_2">
-				<a href="single.html" class="mask">
-					<img class="img-responsive zoom-img" src="images/pc4.jpg" alt="">
-					<span class="four">￥40,000</span>
-				</a>
-				<div class="most-1">
-					<h5><a href="single.html">人气房源</a></h5>
-					<p>Lorem ipsum</p>
+			<volist name="homepopular_list" id="homepopular_list">
+				<div class="col-md-4 box_2">
+					<a href="{:U('Index/room_detail',array(id=>$homepopular_list[id]))}" class="mask">
+						<img class="img-responsive zoom-img" src="__PUBLIC__/{$homepopular_list.imgsrc}" alt="">
+						<span class="four">{$homepopular_list.price}</span>
+					</a>
+					<div class="most-1">
+						<h5><a href="{:U('Index/room_detail',array(id=>$homepopular_list[id]))}">{$homepopular_list.belongs}</a></h5>
+						<p>{$homepopular_list.province}</p>
+					</div>
 				</div>
-			</div>
-			<div class="col-md-4 box_2">
-				<a href="single.html" class="mask">
-					<img class="img-responsive zoom-img" src="images/pc5.jpg" alt="">
-					<span class="four">￥40,000</span>
-				</a>
-				<div class="most-1">
-					<h5><a href="single.html">人气房源</a></h5>
-					<p>Lorem ipsum</p>
-				</div>
-			</div>
-			<div class="col-md-4 box_2">
-				<a href="single.html" class="mask">
-					<img class="img-responsive zoom-img" src="images/pc3.jpg" alt="">
-					<span class="four">￥40,000</span>
-				</a>
-				<div class="most-1">
-					<h5><a href="single.html">人气房源</a></h5>
-					<p>Lorem ipsum</p>
-				</div>
-			</div>
+			</volist>
 			<div class="clearfix"> </div>
 		</div>
 	</div>
@@ -167,86 +175,30 @@
 		<div class="container">
 			<h3>房屋画廊</h3>
 			<div class="project-top">
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
+				<volist name="gallery" id="gallery">
+					<div class="col-md-3 project-grid">
+						<div class="project-grid-top">
+							<a href="{:U('Index/room_detail',array(id=>$gallery[id]))}" class="mask">
+								<img src="__PUBLIC__/{$gallery.imgsrc}" class="img-responsive zoom-img" alt="" />
+							</a>
+							<div class="col-md1">
+								<div class="col-md2">
+									<div class="col-md3">
+										<span class="star">{$gallery.star}</span>
+									</div>
+									<div class="col-md4">
+										<strong>{$gallery.province}</strong>
+										<small>{$gallery.comment-quantity}条评论</small>
+									</div>
+									<div class="clearfix"> </div>
 								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
+								<p>{$gallery.square}平方</p>
+								<p class="cost">{$gallery.price}</p>
+								<a href="{:U('Index/room_detail',array(id=>$gallery[id]))}" class="hvr-sweep-to-right more">查看详情</a>
 							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga1.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
-								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
-							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga2.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
-								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
-							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga3.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
-								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
-							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
-						</div>
-					</div>
-				</div>
+				</volist>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
@@ -261,7 +213,7 @@
 					<p class="para-in">iHome提供的房子既漂亮又舒适，房东很nice，为我的旅途增添了不少色彩。</p>
 					<i class="dolor"> </i>
 					<div class="men-grid">
-						<a href="#" class="men-top"><img class="img-responsive men-top" src="images/te.jpg" alt=""></a>
+						<a href="#" class="men-top"><img class="img-responsive men-top" src="__PUBLIC__/images/te.jpg" alt=""></a>
 						<div class="men">
 							<span>苏维安</span>
 							<p>房客</p>
@@ -273,7 +225,7 @@
 					<p class="para-in">iHome提供的房子既漂亮又舒适，房东很nice，为我的旅途增添了不少色彩。</p>
 					<i class="dolor"> </i>
 					<div class="men-grid">
-						<a href="#" class="men-top"><img class="img-responsive " src="images/te2.jpg" alt=""></a>
+						<a href="#" class="men-top"><img class="img-responsive " src="__PUBLIC__/images/te2.jpg" alt=""></a>
 						<div class="men">
 							<span>皮特</span>
 							<p>房客</p>
@@ -287,7 +239,7 @@
 					<p class="para-in">自从在iHome上分布我的房源信息，我的房子有很多旅客在旅游时都会提前预定，有些甚至当长期租房来与我签租约。</p>
 					<i class="dolor"> </i>
 					<div class="men-grid">
-						<a href="#" class="men-top"><img class="img-responsive " src="images/te1.jpg" alt=""></a>
+						<a href="#" class="men-top"><img class="img-responsive " src="__PUBLIC__/images/te1.jpg" alt=""></a>
 						<div class="men">
 							<span>匹克</span>
 							<p>房东</p>

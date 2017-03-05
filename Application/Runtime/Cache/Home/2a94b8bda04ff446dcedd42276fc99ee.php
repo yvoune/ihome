@@ -2,56 +2,47 @@
 <html>
 
 <head>
-	<title>iHome房屋租赁</title>
-	<link href="/bishe_iHome/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="/bishe_iHome/Public/js/jquery.min.js"></script>
-	<!-- Custom Theme files -->
-	<!--menu-->
-	<script src="/bishe_iHome/Public/js/scripts.js"></script>
-	<link href="/bishe_iHome/Public/css/styles.css" rel="stylesheet">
-	<!--//menu-->
-	<!--theme-style-->
-	<link href="/bishe_iHome/Public/css/style.css" rel="stylesheet" type="text/css" media="all" />
-	<!--//theme-style-->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="keywords" content="Real Home Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
-	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-	<link href="/bishe_iHome/Public/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
-	<script src="/bishe_iHome/Public/js/jquery.magnific-popup.js" type="text/javascript"></script>
-	<!-- slide -->
-	<script src="/bishe_iHome/Public/js/responsiveslides.min.js"></script>
+	<title><?php echo ($title); ?></title>
+	<link href="/bishe/Public/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/bishe/Public/css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/bishe/Public/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/bishe/Public/css/styles.css" rel="stylesheet">
 	
-	<script src="/bishe_iHome/Public/js/easyResponsiveTabs.js" type="text/javascript"></script>
+	<script src="/bishe/Public/js/jquery.min.js"></script>
+	<script src="/bishe/Public/js/scripts.js"></script>
+	<script src="/bishe/Public/js/jquery.magnific-popup.js" type="text/javascript"></script>
+	<script src="/bishe/Public/js/responsiveslides.min.js"></script>
+	<script src="/bishe/Public/js/easyResponsiveTabs.js" type="text/javascript"></script>
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<script>
-    $(function () {
-      $("#slider").responsiveSlides({
-      	auto: true,
-      	speed: 500,
-        namespace: "callbacks",
-        pager: true,
-      });
-    });
-	$(document).ready(function () {
-		$('#horizontalTab').easyResponsiveTabs({
-			type: 'default', //Types: default, vertical, accordion
-			width: 'auto', //auto or any width like 600px
-			fit: true   // 100% fit in a container
+		$(function () {
+			$("#slider").responsiveSlides({
+				auto: true,
+				speed: 500,
+				namespace: "callbacks",
+				pager: true,
+			});
+			$('#horizontalTab').easyResponsiveTabs({
+				type: 'default', //Types: default, vertical, accordion
+				width: 'auto', //auto or any width like 600px
+				fit: true   // 100% fit in a container
+			});
+			$('.popup-with-zoom-anim').magnificPopup({
+				type: 'inline',
+				fixedContentPos: false,
+				fixedBgPos: true,
+				overflowY: 'auto',
+				closeBtnInside: true,
+				preloader: false,
+				midClick: true,
+				removalDelay: 300,
+				mainClass: 'my-mfp-zoom-in'
+			});
 		});
-		$('.popup-with-zoom-anim').magnificPopup({
-			type: 'inline',
-			fixedContentPos: false,
-			fixedBgPos: true,
-			overflowY: 'auto',
-			closeBtnInside: true,
-			preloader: false,
-			midClick: true,
-			removalDelay: 300,
-			mainClass: 'my-mfp-zoom-in'
-		});
-	});
   </script>
 </head>
 
@@ -138,32 +129,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<!--//-->
-	<div class=" header-right">
-		<div class=" banner">
-			<div class="slider">
-				<div class="callbacks_container">
-					<ul class="rslides" id="slider">
-						<li>
-							<div class="banner2">
-								<div class="caption">
-									<h3><span>iHome</span>租房网</h3>
-									<p>开启您的租房新旅程</p>
-								</div>
-							</div>
-						</li>
-						<li>
-							<div class="banner3">
-								<div class="caption">
-									<h3><span>iHome</span>租房网</h3>
-									<p>开启您的租房新旅程</p>
-								</div>
-							</div>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
+
 
 
 	<!--<!DOCTYPE html>
@@ -173,22 +139,48 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<meta charset="UTF-8">
 	<link rel="shortcut icon" href="/favicon.ico">
 	 <meta name="viewport" content="width=device-width, initial-scale=1">
-	 <link rel="stylesheet" href="/bishe_iHome/Public/bootstrap-3.3.0/css/bootstrap.min.css">
-	 <link rel="stylesheet" href="/bishe_iHome/Public/css/home/headAndFoot.css">
-	 <script src="/bishe_iHome/Public/js/jquery.1.11.1.min.js">	</script>
-	 <script src="/bishe_iHome/Public/js/change.js" type="text/javascript" charset="utf-8"></script>
-	 <script src="/bishe_iHome/Public/bootstrap-3.3.0/js/bootstrap.min.js">	</script>-->
+	 <link rel="stylesheet" href="/bishe/Public/bootstrap-3.3.0/css/bootstrap.min.css">
+	 <link rel="stylesheet" href="/bishe/Public/css/home/headAndFoot.css">
+	 <script src="/bishe/Public/js/jquery.1.11.1.min.js">	</script>
+	 <script src="/bishe/Public/js/change.js" type="text/javascript" charset="utf-8"></script>
+	 <script src="/bishe/Public/bootstrap-3.3.0/js/bootstrap.min.js">	</script>-->
 	<!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>  
       <![endif]-->
+<div class=" header-right">
+	<div class=" banner">
+		<div class="slider">
+			<div class="callbacks_container">
+				<ul class="rslides" id="slider">
+					<li>
+						<div class="banner2">
+							<div class="caption">
+								<h3><span>iHome</span>租房网</h3>
+								<p>开启您的租房新旅程</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="banner3">
+							<div class="caption">
+								<h3><span>iHome</span>租房网</h3>
+								<p>开启您的租房新旅程</p>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
 <!--header-bottom-->
 <div class="banner-bottom-top">
 	<div class="container">
 		<div class="bottom-header">
 			<div class="header-bottom">
 				<div class=" bottom-head">
-					<a href="shortRent.html">
+					<a href="<?php echo U('Index/shortRent');?>">
 						<div class="buy-media">
 							<i class="buy"> </i>
 							<h6>短期租房</h6>
@@ -204,7 +196,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</a>
 				</div>
 				<div class=" bottom-head">
-					<a href="publishing.html">
+					<a href="<?php echo U('Index/publishing');?>">
 						<div class="buy-media">
 							<i class="rent"> </i>
 							<h6>发布房源</h6>
@@ -256,36 +248,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="content-grid">
 		<div class="container">
 			<h3>最受欢迎</h3>
-			<div class="col-md-4 box_2">
-				<a href="single.html" class="mask">
-					<img class="img-responsive zoom-img" src="images/pc4.jpg" alt="">
-					<span class="four">￥40,000</span>
-				</a>
-				<div class="most-1">
-					<h5><a href="single.html">人气房源</a></h5>
-					<p>Lorem ipsum</p>
-				</div>
-			</div>
-			<div class="col-md-4 box_2">
-				<a href="single.html" class="mask">
-					<img class="img-responsive zoom-img" src="images/pc5.jpg" alt="">
-					<span class="four">￥40,000</span>
-				</a>
-				<div class="most-1">
-					<h5><a href="single.html">人气房源</a></h5>
-					<p>Lorem ipsum</p>
-				</div>
-			</div>
-			<div class="col-md-4 box_2">
-				<a href="single.html" class="mask">
-					<img class="img-responsive zoom-img" src="images/pc3.jpg" alt="">
-					<span class="four">￥40,000</span>
-				</a>
-				<div class="most-1">
-					<h5><a href="single.html">人气房源</a></h5>
-					<p>Lorem ipsum</p>
-				</div>
-			</div>
+			<?php if(is_array($homepopular_list)): $i = 0; $__LIST__ = $homepopular_list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$homepopular_list): $mod = ($i % 2 );++$i;?><div class="col-md-4 box_2">
+					<a href="<?php echo U('Index/room_detail',array(id=>$homepopular_list[id]));?>" class="mask">
+						<img class="img-responsive zoom-img" src="/bishe/Public/<?php echo ($homepopular_list["imgsrc"]); ?>" alt="">
+						<span class="four"><?php echo ($homepopular_list["price"]); ?></span>
+					</a>
+					<div class="most-1">
+						<h5><a href="<?php echo U('Index/room_detail',array(id=>$homepopular_list[id]));?>"><?php echo ($homepopular_list["belongs"]); ?></a></h5>
+						<p><?php echo ($homepopular_list["province"]); ?></p>
+					</div>
+				</div><?php endforeach; endif; else: echo "" ;endif; ?>
 			<div class="clearfix"> </div>
 		</div>
 	</div>
@@ -350,86 +322,28 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<h3>房屋画廊</h3>
 			<div class="project-top">
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
+				<?php if(is_array($gallery)): $i = 0; $__LIST__ = $gallery;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$gallery): $mod = ($i % 2 );++$i;?><div class="col-md-3 project-grid">
+						<div class="project-grid-top">
+							<a href="<?php echo U('Index/room_detail',array(id=>$gallery[id]));?>" class="mask">
+								<img src="/bishe/Public/<?php echo ($gallery["imgsrc"]); ?>" class="img-responsive zoom-img" alt="" />
+							</a>
+							<div class="col-md1">
+								<div class="col-md2">
+									<div class="col-md3">
+										<span class="star"><?php echo ($gallery["star"]); ?></span>
+									</div>
+									<div class="col-md4">
+										<strong><?php echo ($gallery["province"]); ?></strong>
+										<small><?php echo ($gallery["comment-quantity"]); ?>条评论</small>
+									</div>
+									<div class="clearfix"> </div>
 								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
+								<p><?php echo ($gallery["square"]); ?>平方</p>
+								<p class="cost"><?php echo ($gallery["price"]); ?></p>
+								<a href="<?php echo U('Index/room_detail',array(id=>$gallery[id]));?>" class="hvr-sweep-to-right more">查看详情</a>
 							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
 						</div>
-					</div>
-				</div>
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga1.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
-								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
-							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga2.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
-								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
-							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 project-grid">
-					<div class="project-grid-top">
-						<a href="single.html" class="mask"><img src="images/ga3.jpg" class="img-responsive zoom-img" alt="" /></a>
-						<div class="col-md1">
-							<div class="col-md2">
-								<div class="col-md3">
-									<span class="star"> 4.5</span>
-								</div>
-								<div class="col-md4">
-									<strong>威尼斯</strong>
-									<small>50条评论</small>
-								</div>
-								<div class="clearfix"> </div>
-							</div>
-							<p>200平方</p>
-							<p class="cost">￥65,000</p>
-							<a href="single.html" class="hvr-sweep-to-right more">查看详情</a>
-						</div>
-					</div>
-				</div>
+					</div><?php endforeach; endif; else: echo "" ;endif; ?>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
@@ -444,7 +358,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p class="para-in">iHome提供的房子既漂亮又舒适，房东很nice，为我的旅途增添了不少色彩。</p>
 					<i class="dolor"> </i>
 					<div class="men-grid">
-						<a href="#" class="men-top"><img class="img-responsive men-top" src="images/te.jpg" alt=""></a>
+						<a href="#" class="men-top"><img class="img-responsive men-top" src="/bishe/Public/images/te.jpg" alt=""></a>
 						<div class="men">
 							<span>苏维安</span>
 							<p>房客</p>
@@ -456,7 +370,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p class="para-in">iHome提供的房子既漂亮又舒适，房东很nice，为我的旅途增添了不少色彩。</p>
 					<i class="dolor"> </i>
 					<div class="men-grid">
-						<a href="#" class="men-top"><img class="img-responsive " src="images/te2.jpg" alt=""></a>
+						<a href="#" class="men-top"><img class="img-responsive " src="/bishe/Public/images/te2.jpg" alt=""></a>
 						<div class="men">
 							<span>皮特</span>
 							<p>房客</p>
@@ -470,7 +384,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p class="para-in">自从在iHome上分布我的房源信息，我的房子有很多旅客在旅游时都会提前预定，有些甚至当长期租房来与我签租约。</p>
 					<i class="dolor"> </i>
 					<div class="men-grid">
-						<a href="#" class="men-top"><img class="img-responsive " src="images/te1.jpg" alt=""></a>
+						<a href="#" class="men-top"><img class="img-responsive " src="/bishe/Public/images/te1.jpg" alt=""></a>
 						<div class="men">
 							<span>匹克</span>
 							<p>房东</p>

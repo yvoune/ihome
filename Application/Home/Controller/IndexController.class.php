@@ -45,7 +45,42 @@ class IndexController extends Controller {
 // 		$this->assign('news_list',$news_list);
     }
     public function publishing(){
-      $this->display();
+      // 保存反馈信息到数据库
+      if (IS_POST) {
+        $publishing_m=D('publishing');
+        //自动填充创建时间
+        $_POST['publishingTime']=date('Y-m-d H:i:s');
+        // 上传图片
+        // $upload=new Upload();
+        // $upload->maxSize=10240000;
+        // $upload->exts=array('jpg','gif','jpeg','png');
+        // $upload->savePath='/';
+        // $info=$upload->upload();
+        // if (!$info) {
+        //   $this->error($upload->getError());
+        // }else{
+        //   // ./2017-03-1408/58003ad34b822.jpg
+        //   $_POST['imgs']=$info['imgs']['savepath'].$info['imgs']['savename'];
+        // }
+        // 做验证、自动完成数据填充
+        if ($publishing_m->create()) {
+          //添加房源
+          if ($publisingId=$publishing_m->add()) {
+            $this->success('房源信息已提交',U('Index/publishing'));
+          } else {
+            $this->error('房源信息提交失败',U('Index/publishing'));
+          }
+        }else {
+          // 验证失败
+          $this->error($publishing_m->getError());
+        }
+      } else{
+        $cache_a= S('site_name');
+
+       $this->assign('title','发布房源 - '.$cache_a['site_name']);
+      // do it
+       $this->display();
+      }
     }
     // public function about_us()
     // {

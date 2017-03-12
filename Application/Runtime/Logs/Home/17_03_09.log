@@ -62,3 +62,455 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001890s ]
 INFO: [ app_end ] --END-- [ RunTime:0.002044s ]
 
+[ 2017-03-09T23:09:41+08:00 ] ::1 /bishe/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015097s ]
+SQL: SHOW COLUMNS FROM `homepopular` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `homepopular` ORDER BY star LIMIT 3   [ RunTime:0.0224s ]
+SQL: SELECT * FROM `homepopular` LIMIT 4   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.168835s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169015s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009313s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013751s ]
+
+[ 2017-03-09T23:09:45+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042659s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001965s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001937s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002122s ]
+
+[ 2017-03-09T23:14:21+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002567s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0195s ]
+
+[ 2017-03-09T23:15:44+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003337s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001417s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001949s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002417s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003209s ]
+
+[ 2017-03-09T23:27:42+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004997s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0653s ]
+
+[ 2017-03-09T23:27:44+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003405s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002782s ]
+
+[ 2017-03-09T23:27:47+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029753s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002387s ]
+
+[ 2017-03-09T23:28:59+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002324s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0368s ]
+
+[ 2017-03-09T23:32:24+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000365s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001268s ]
+
+[ 2017-03-09T23:32:27+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002160s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000165s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000351s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002262s ]
+
+[ 2017-03-09T23:34:14+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002733s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001922s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002470s ]
+
+[ 2017-03-09T23:35:12+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0731s ]
+NOTIC: [8] Use of undefined constant uploadPath - assumed 'uploadPath' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 68 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003828s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004301s ]
+
+[ 2017-03-09T23:36:29+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004457s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007024s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0084s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004346s ]
+
+[ 2017-03-09T23:36:56+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003953s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0085s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002848s ]
+
+[ 2017-03-09T23:37:01+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003951s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003718s ]
+
+[ 2017-03-09T23:37:05+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004886s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000386s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000596s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040391s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026778s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004626s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004810s ]
+
+[ 2017-03-09T23:37:52+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006747s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0451s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`publishingTime`) VALUES ('2017-03-09 23:37:52') [ RunTime:0.0784s ]
+
+[ 2017-03-09T23:39:00+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002434s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002246s ]
+
+[ 2017-03-09T23:39:26+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000263s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000534s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038187s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002689s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005423s ]
+
+[ 2017-03-09T23:39:30+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003591s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001978s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002145s ]
+
+[ 2017-03-09T23:39:45+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003249s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0064s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`publishingTime`) VALUES ('2017-03-09 23:39:45') [ RunTime:0.0019s ]
+
+[ 2017-03-09T23:41:20+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000166s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000350s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080450s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003037s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002584s ]
+
+[ 2017-03-09T23:42:08+08:00 ] ::1 /bishe/Home/Index/bisheHomeIndexpublishing
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002231s ]
+ERR: 非法操作:bisheHomeIndexpublishing
+
+[ 2017-03-09T23:47:38+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004129s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000288s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000499s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043583s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001759s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001975s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002154s ]
+
+[ 2017-03-09T23:47:44+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002636s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001862s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002034s ]
+
+[ 2017-03-09T23:48:22+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000170s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027332s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027521s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002213s ]
+
+[ 2017-03-09T23:48:28+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002606s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002780s ]
+

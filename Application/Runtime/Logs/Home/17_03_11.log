@@ -1,0 +1,1708 @@
+[ 2017-03-11T14:06:57+08:00 ] ::1 /bishe/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.020606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020802s ]
+SQL: SHOW COLUMNS FROM `homepopular` [ RunTime:0.1112s ]
+SQL: SELECT * FROM `homepopular` ORDER BY star LIMIT 3   [ RunTime:0.0339s ]
+SQL: SELECT * FROM `homepopular` LIMIT 4   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000190s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.342944s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.343241s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.096928s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.097096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.035618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.035793s ]
+
+[ 2017-03-11T15:08:56+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.045380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.042486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.042699s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000366s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.706533s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.706743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.215346s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.215523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.212586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.212944s ]
+
+[ 2017-03-11T15:10:51+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.047726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.047921s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.1280s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.075153s ]
+INFO: [ app_end ] --END-- [ RunTime:0.075339s ]
+
+[ 2017-03-11T16:26:30+08:00 ] ::1 /bishe/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.053869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.167760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.167982s ]
+SQL: SHOW COLUMNS FROM `homepopular` [ RunTime:0.2104s ]
+SQL: SELECT * FROM `homepopular` ORDER BY star LIMIT 3   [ RunTime:0.2212s ]
+SQL: SELECT * FROM `homepopular` LIMIT 4   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000370s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 252 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 257 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 327 行.
+NOTIC: [8] Undefined index: comment-quantity D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 337 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\Program Files\wamp\www\bishe\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 343 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.233618s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.233795s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.057533s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.057702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.083911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.084079s ]
+
+[ 2017-03-11T16:26:41+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006375s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000369s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.235133s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.235331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005055s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005302s ]
+
+[ 2017-03-11T16:26:56+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004390s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006208s ]
+
+[ 2017-03-11T16:27:43+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000164s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000335s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.164300s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.164522s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006537s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006721s ]
+
+[ 2017-03-11T16:27:56+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001490s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.1300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001369s ]
+
+[ 2017-03-11T16:28:57+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000376s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.133580s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001261s ]
+
+[ 2017-03-11T16:29:06+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006067s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0829s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`publishingTime`) VALUES ('2017-03-11 16:29:06') [ RunTime:0.0489s ]
+
+[ 2017-03-11T16:31:05+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003337s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.230372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.230554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001749s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001912s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002242s ]
+
+[ 2017-03-11T16:31:11+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001502s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0249s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`publishingTime`) VALUES ('2017-03-11 16:31:11') [ RunTime:0.0021s ]
+
+[ 2017-03-11T16:33:23+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002121s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000374s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.113453s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.113647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001908s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002068s ]
+
+[ 2017-03-11T16:33:29+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002160s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0352s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`publishingTime`) VALUES ('2017-03-11 16:33:29') [ RunTime:0.0005s ]
+
+[ 2017-03-11T16:36:06+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002081s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000390s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109308s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002158s ]
+
+[ 2017-03-11T16:38:21+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000093s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002113s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0295s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001767s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001966s ]
+
+[ 2017-03-11T16:38:43+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003709s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000297s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000501s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132500s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002560s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002726s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003525s ]
+
+[ 2017-03-11T16:39:52+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002632s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0380s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002448s ]
+
+[ 2017-03-11T16:39:54+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002300s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0497s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002311s ]
+
+[ 2017-03-11T16:40:06+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002041s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0355s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002897s ]
+
+[ 2017-03-11T16:42:56+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004650s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000394s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.211139s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.211336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002320s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002243s ]
+
+[ 2017-03-11T16:50:52+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001899s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000259s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000435s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.127423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.127611s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001593s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001752s ]
+
+[ 2017-03-11T16:51:05+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001682s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.1160s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002553s ]
+
+[ 2017-03-11T16:51:26+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001864s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0403s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001888s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002088s ]
+
+[ 2017-03-11T16:53:37+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0995s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001402s ]
+
+[ 2017-03-11T20:28:19+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.209730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.210024s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.2536s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.166641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.166834s ]
+
+[ 2017-03-11T20:48:01+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.240816s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.287622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.288074s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000269s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000492s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.983605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.983790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.031305s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009652s ]
+
+[ 2017-03-11T20:48:09+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003165s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:49:09+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002151s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0396s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.120866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.121057s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002180s ]
+
+[ 2017-03-11T20:49:13+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004383s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000217s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002364s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.173738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.173920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003852s ]
+
+[ 2017-03-11T20:49:22+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004824s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:49:22+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003879s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:49:22+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001014s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003134s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:50:29+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002251s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.116290s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.116469s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001689s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001847s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002218s ]
+
+[ 2017-03-11T20:50:44+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002530s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000387s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.114536s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.114718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001899s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002055s ]
+
+[ 2017-03-11T20:50:49+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002544s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:51:27+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003370s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000438s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.175360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.175552s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002853s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003032s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002676s ]
+
+[ 2017-03-11T20:51:37+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002078s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:55:30+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002266s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.118060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003086s ]
+
+[ 2017-03-11T20:55:37+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002382s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:56:01+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002578s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0312s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001994s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002171s ]
+
+[ 2017-03-11T20:56:05+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006766s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000447s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.197387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.197729s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001741s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007356s ]
+
+[ 2017-03-11T20:56:46+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002748s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T20:56:51+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002272s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0417s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`beginRentTime`,`endRentTime`,`rents`,`perRents`,`peopleIn`,`address`,`subscribe`,`publishingTime`) VALUES ('2017-03-10T00:00','2017-05-31T23:59','190','day','4','广东省广州市天河区花城大道16号铂林国际公寓','广东省广州市天河区花城大道16号铂林国际公寓','2017-03-11 20:56:51') [ RunTime:0.0970s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000313s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017339s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001708s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001877s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001916s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002073s ]
+
+[ 2017-03-11T20:56:52+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002751s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000215s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.134298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001810s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001984s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002913s ]
+
+[ 2017-03-11T21:06:19+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.040470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.040674s ]
+
+[ 2017-03-11T21:06:29+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005139s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000409s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.523423s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.523617s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019688s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019857s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013461s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013640s ]
+
+[ 2017-03-11T21:06:36+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000420s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001938s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003380s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 133 行.
+NOTIC: [8] Undefined variable: filePath D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002235s ]
+
+[ 2017-03-11T21:07:03+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003749s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000323s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000512s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.197607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.197798s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012519s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002259s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002450s ]
+
+[ 2017-03-11T21:07:09+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004567s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T21:10:01+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002368s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0299s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049090s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049288s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001676s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001845s ]
+
+[ 2017-03-11T21:10:04+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004725s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000593s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.165056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.165374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002405s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002594s ]
+
+[ 2017-03-11T21:10:11+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002103s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T21:12:01+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007501s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000384s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001398s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.149509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001895s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002276s ]
+
+[ 2017-03-11T21:12:09+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002993s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003238s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 144 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2017-03-11T21:13:14+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003760s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0593s ]
+
+[ 2017-03-11T21:13:42+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002709s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0369s ]
+NOTIC: [8] Undefined variable: upload D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 58 行.
+
+[ 2017-03-11T21:14:43+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002604s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000373s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.158748s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.158948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001491s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001641s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001982s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002154s ]
+
+[ 2017-03-11T21:14:51+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001969s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002167s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002364s ]
+
+[ 2017-03-11T21:15:10+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002258s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005389s ]
+
+[ 2017-03-11T21:15:46+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001314s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002850s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 138 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002237s ]
+
+[ 2017-03-11T21:16:23+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006286s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 138 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001777s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001928s ]
+
+[ 2017-03-11T21:16:53+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.0329s ]
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`beginRentTime`,`endRentTime`,`rents`,`perRents`,`peopleIn`,`address`,`subscribe`,`publishingTime`) VALUES ('2017-03-10T00:00','2017-05-31T23:59','190','day','3','广东省广州市天河区花城大道16号铂林国际公寓','土耳其风格主题复式公寓，有舒服的大床，实用的厨房，还有特别暖心的看电影的区域，我想你来就能感受到它的温度～
+我喜欢打造房间和来的朋友沟通的感觉,舒妞就是想打造一个家的感觉,所以你来到这是舒妞的朋友不是客人,这是一个可以带来温暖的地方~','2017-03-11 21:16:53') [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016091s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001331s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001484s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001637s ]
+
+[ 2017-03-11T21:16:54+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001894s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000377s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.169379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169573s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001422s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001704s ]
+
+[ 2017-03-11T21:23:51+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000997s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002654s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 138 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003649s ]
+
+[ 2017-03-11T21:24:13+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002563s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 138 行.
+NOTIC: [8] Undefined index: myInputName D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005126s ]
+
+[ 2017-03-11T21:24:43+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004840s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 138 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 143 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002929s ]
+
+[ 2017-03-11T21:27:54+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004129s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 125 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 138 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 144 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003250s ]
+
+[ 2017-03-11T21:29:51+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002776s ]
+NOTIC: [8] Undefined index: myInputName D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Use of undefined constant uploadPath - assumed 'uploadPath' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002185s ]
+
+[ 2017-03-11T21:56:05+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002542s ]
+NOTIC: [8] Undefined index: myInputName D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Use of undefined constant uploadPath - assumed 'uploadPath' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 143 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 149 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002806s ]
+
+[ 2017-03-11T21:56:28+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005166s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 139 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 145 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002816s ]
+
+[ 2017-03-11T21:57:10+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002729s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000177s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000388s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.582476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.582739s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.026785s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.026964s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002361s ]
+
+[ 2017-03-11T21:57:17+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004689s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004046s ]
+
+[ 2017-03-11T23:22:04+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.052701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.052924s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.093628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.093812s ]
+
+[ 2017-03-11T23:22:05+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.065376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.065547s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002594s ]
+
+[ 2017-03-11T23:31:27+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012429s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+NOTIC: [8] Use of undefined constant fileInfo - assumed 'fileInfo' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 133 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020884s ]
+
+[ 2017-03-11T23:33:27+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014402s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016729s ]
+
+[ 2017-03-11T23:33:53+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002145s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000389s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:1.705281s ]
+INFO: [ view_parse ] --END-- [ RunTime:1.705466s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.067655s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.067889s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015667s ]
+
+[ 2017-03-11T23:34:02+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002326s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 126 行.
+NOTIC: [8] Use of undefined constant fileInfo - assumed 'fileInfo' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 132 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002451s ]
+
+[ 2017-03-11T23:47:50+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.043280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.030830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031253s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000380s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.586020s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.586215s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.041634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.041813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021701s ]
+INFO: [ app_end ] --END-- [ RunTime:0.021896s ]
+
+[ 2017-03-11T23:48:36+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005222s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 136 行.
+NOTIC: [8] Use of undefined constant fileInfo - assumed 'fileInfo' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 137 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 142 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015402s ]
+
+[ 2017-03-11T23:49:02+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000300s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000560s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.184940s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.185133s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002799s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002784s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002958s ]
+
+[ 2017-03-11T23:49:12+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003438s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 136 行.
+NOTIC: [8] Use of undefined constant fileInfo - assumed 'fileInfo' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 137 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 142 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002633s ]
+
+[ 2017-03-11T23:49:28+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002666s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.214598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.214783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002149s ]
+
+[ 2017-03-11T23:49:34+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005780s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 136 行.
+NOTIC: [8] Use of undefined constant fileInfo - assumed 'fileInfo' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 137 行.
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 142 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2017-03-11T23:49:53+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005996s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000257s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000520s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.230034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.230221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001590s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001742s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002036s ]
+
+[ 2017-03-11T23:50:00+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003671s ]
+SQL: SHOW COLUMNS FROM `publishing` [ RunTime:0.3541s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 56 行.
+NOTIC: [8] Undefined index: validate D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\Program Files\wamp\www\bishe\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `publishing` (`publishingTime`) VALUES ('2017-03-11 23:50:00') [ RunTime:0.0378s ]
+
+[ 2017-03-11T23:50:34+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003178s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000392s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.225143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.225395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001824s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002426s ]
+
+[ 2017-03-11T23:50:43+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003619s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007092s ]
+
+[ 2017-03-11T23:51:15+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002664s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000374s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.733510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.733706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017918s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018133s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002306s ]
+
+[ 2017-03-11T23:51:34+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003283s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002123s ]
+
+[ 2017-03-11T23:52:28+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001854s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001859s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002007s ]
+
+[ 2017-03-11T23:52:57+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002100s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002045s ]
+
+[ 2017-03-11T23:53:00+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002492s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000393s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.143284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.143989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001916s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001925s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002093s ]
+
+[ 2017-03-11T23:53:07+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000848s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002342s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002224s ]
+
+[ 2017-03-11T23:53:30+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002079s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000176s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000383s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.273164s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.273342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003947s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004129s ]
+
+[ 2017-03-11T23:53:41+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002165s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002185s ]
+
+[ 2017-03-11T23:55:30+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002578s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000605s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.397946s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.398223s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002715s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007676s ]
+
+[ 2017-03-11T23:55:35+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002717s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002275s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002460s ]
+
+[ 2017-03-11T23:55:54+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002370s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002550s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000381s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.187749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.187927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001896s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002059s ]
+
+[ 2017-03-11T23:56:00+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008460s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002233s ]
+
+[ 2017-03-11T23:57:06+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001956s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000180s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000367s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.215458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.215638s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001622s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001783s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002078s ]
+
+[ 2017-03-11T23:57:36+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000380s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.129324s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.129524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001877s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002243s ]
+
+[ 2017-03-11T23:59:47+08:00 ] ::1 /bishe/Home/Index/publishing.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002180s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000386s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.218979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.219166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001457s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002530s ]
+
+[ 2017-03-11T23:59:54+08:00 ] ::1 /bishe/Home/Index/upload.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002317s ]
+NOTIC: [8] Undefined index: imgs D:\Program Files\wamp\www\bishe\Application\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002182s ]
+

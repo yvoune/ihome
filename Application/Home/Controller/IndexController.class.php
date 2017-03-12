@@ -50,18 +50,8 @@ class IndexController extends Controller {
         $publishing_m=D('publishing');
         //自动填充创建时间
         $_POST['publishingTime']=date('Y-m-d H:i:s');
-        // 上传图片
-        // $upload=new Upload();
-        // $upload->maxSize=10240000;
-        // $upload->exts=array('jpg','gif','jpeg','png');
-        // $upload->savePath='/';
-        // $info=$upload->upload();
-        // if (!$info) {
-        //   $this->error($upload->getError());
-        // }else{
-        //   // ./2017-03-1408/58003ad34b822.jpg
-        //   $_POST['imgs']=$info['imgs']['savepath'].$info['imgs']['savename'];
-        // }
+
+
         // 做验证、自动完成数据填充
         if ($publishing_m->create()) {
           //添加房源
@@ -82,6 +72,68 @@ class IndexController extends Controller {
        $this->display();
       }
     }
+
+
+        // 上传图片
+        // $upload=new Upload();
+        // $upload->maxSize=10240000;
+        // $upload->exts=array('jpg','gif','jpeg','png');
+        // $upload->savePath='/';
+        // $info=$upload->upload();
+        // if (!$info) {
+        //   $this->error($upload->getError());
+        // }else{
+        //   // ./2017-03-1408/58003ad34b822.jpg
+        //   $_POST['imgs']=$info['imgs']['savepath'].$info['imgs']['savename'];
+        // }
+
+        // $mainDir = './Uploads/';
+        // $uploadPath=$mainDir.'publishing';
+        // $fileName=$_FILES ['imgs'] ['name']; 
+        // $filePath=$uploadPath.'/'.$fileName;
+        //     if(file_exists($filePath)){
+        //         header(':', true, 403); // or http_response_code(403); for php>=5.4
+        //         echo 'File exist!'; //Custom error From Server
+        //         return;
+        //     }else{
+        //         if (!move_uploaded_file($_FILES ['imgs'] ['tmp_name'], $filePath)) {
+        //             $errors = error_get_last();
+        //             header(':', true, 403); // or http_response_code(403); for php>=5.4
+        //             echo $errors; //Error From Server
+        //             return;
+        //         }
+        //     }
+        // echo 'success';
+
+
+    public function upload(){
+      // $upload = new\Think\Upload();// 实例化上传类
+      // $upload->maxSize = 3145728 ;// 设置附件上传大小
+      // $upload->exts = array('jpg', 'gif', 'png', 'jpeg',);// 设置附件上传类型
+      // $upload->rootPath = './Uploads/'; // 设置附件上传根目录
+      // $upload->savePath = 'publishing/'; // 设置附件上传（子）目录
+      // $fileName=$_FILES ['imgs'] ['name'];
+      // // 上传文件 
+      // $info   =   $upload->upload();
+      // if(!$info) {
+      //   $this->error($upload->getError());// 上传错误提示错误信息
+      // }else{
+      //   // $_POST['imgs']=$('.ssi-imgToUpload').attr('src').['savepath'].$info['imgs']['savename'];
+      //   return $info;// 上传成功
+      // }
+      
+        $mainDir = './Uploads/';
+        $uploadPath=$mainDir.'publishing';
+        $fileName=$_FILES ['imgs'] ['name']; 
+        $filePath=$uploadPath.'/'.$fileName;
+        echo json_encode(array(
+          
+            // 'type' => 'success',
+            // 'msg' => 'success msg'
+            $filePath
+        ));
+    }
+
     // public function about_us()
     // {
 

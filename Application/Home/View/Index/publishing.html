@@ -59,7 +59,8 @@
 						<div class="row form-group">
 							<div class="col-md-12">
 								<label for="ssi-upload">上传房间图片</label>
-								<input type="file" multiple id="ssi-upload" name="imgs"/>
+								<input type="file" multiple id="ssi-upload"/>
+								<!--<input type="file" class="chooseImg">-->
 							</div>
 						</div>
 						<div class="form-group">
@@ -75,14 +76,38 @@
 	</div>
 </div>
 
+<!--
+<script>
+	$('.chooseImg').on('change',function(fileInfo){
+		console.log(fileInfo);
+	})
+</script>-->
 <script src="__PUBLIC__/js/ssi-uploader.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
+	// var galleryList = [];
+	$('#ssi-upload').on('change',function(file){
+		console.log($('.ssi-imgToUpload'));
+	})
 	$('#ssi-upload').ssi_uploader({
-		url: 'path/to/upload.php',
+		url: '{:U('Index/upload')}',
 		locale:'zh_CN',
-		onEachUpload:function(file){
-			console.log(file)
-			}
+	// 	// data: 
+	// 	// onEachUpload: function(fileInfo){
+	// 	// 	$('.ssi-imgToUpload').attr('name','tmp_name')
+	// 	// 	console.log(fileInfo.uploadStatus+
+	// 	// 		' '+fileInfo.name+' '+fileInfo.type+' '+fileInfo.size+' '+fileInfo.uploadStatus+' '+fileInfo.responseMsg
+	// 	// 	);
+	// 	// }
+		beforeUpload: function(){
+			$('.ssi-imgToUpload').attr('name','img');
+		},
+		// onEachUpload: function (fileInfo) {
+		// 	galleryList.push(fileInfo.name);
+		// },
+		// onUpload: function () {
+		// 	$("#ssi-upload").val(galleryList);
+		// 	console.log(galleryList+'3');
+		// }
 	});
 </script>
 <include file="public/footer" />
